@@ -1,9 +1,9 @@
 @media(max-width:1214px){
-    .adopt{
+    .adopt,.consult{
         height:150vh;
     }
     .donate{
-        height:180vh;
+        height:175vh;
     }
     nav ul li a{
         display:block;
@@ -19,7 +19,7 @@
     .sub-adopt ul li,.sub-donate ul li{
         padding-left:70px;
     }
-    .points, .pay{
+    .points, .pay,.a,.b,.c{
         width:100%;
         
     }
@@ -32,6 +32,7 @@
     input.num,input.date,input.cvv{
         width:200px;
     }
+    
 }
 
 
