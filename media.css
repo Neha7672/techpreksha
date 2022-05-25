@@ -1,6 +1,9 @@
 @media(max-width:1214px){
-    .adopt,.donate{
+    .adopt{
         height:150vh;
+    }
+    .donate{
+        height:175vh;
     }
     nav ul li a{
         display:block;
