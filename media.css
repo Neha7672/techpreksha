@@ -1,5 +1,5 @@
 @media(max-width:1214px){
-    .adopt,.consult{
+    .adopt,.consult,.contact{
         height:150vh;
     }
     .donate{
@@ -16,10 +16,10 @@
         text-align:center;
         padding-left:70px;
     }
-    .sub-adopt ul li,.sub-donate ul li{
+    .sub-adopt ul li,.sub-donate ul li,.contactinfo{
         padding-left:70px;
     }
-    .points, .pay,.a,.b,.c{
+    .points, .pay,.a,.b,.c,.contactinfo,.contactform{
         width:100%;
         
     }
