@@ -1,22 +1,22 @@
 @media(max-width:1214px){
-    .adopt{
-        height:200vh;
+    .adopt,.donate{
+        height:150vh;
     }
     nav ul li a{
         display:block;
     }
-    .sub-adopt{
+    .sub-adopt, .sub-donate{
         width:100%;
         
     }
-    .sub-adopt h2{
+    .sub-adopt h2,.sub-donate h1{
         text-align:center;
         padding-left:70px;
     }
-    .sub-adopt ul li{
+    .sub-adopt ul li,.sub-donate ul li{
         padding-left:70px;
     }
-    .points{
+    .points, .pay{
         width:100%;
         
     }
@@ -26,4 +26,22 @@
     input{
         width:200px;
     }
+    input.num,input.date,input.cvv{
+        width:200px;
+    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
