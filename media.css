@@ -1,5 +1,13 @@
-@media screen and (max-widthh:1214px){
+@media(max-width:1214px){
     nav ul li a{
-        flex-direction:column;
+        display:block;
+    }
+    .sub-adopt{
+        width:100%;
+        float:none
+    }
+    .points{
+        width:100%;
+        float:none;
     }
 }
