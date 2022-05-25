@@ -4,10 +4,22 @@
     }
     .sub-adopt{
         width:100%;
-        float:none
+        
+    }
+    .sub-adopt h2{
+        text-align:center;
+        padding-left:50px;
+        padding-top:50px;
     }
     .points{
         width:100%;
-        float:none;
+        
+    }
+    .points p{
+        padding-top:130px;
+    }
+    input{
+        width:200px;
     }
 }
+
