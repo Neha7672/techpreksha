@@ -8,7 +8,7 @@
     min-height:100vh;
     width:100%;
     display:flex;
-    background:linear-gradient(rgba(78, 63, 83, 0.7),rgba(101, 81, 99, 0.7)),url(images/dog2.jpg);
+    background:linear-gradient(rgba(78, 63, 83, 0.7),rgba(101, 81, 99, 0.7)),url(dog2.jpg);
     background-size:cover;
     background-position: center;
     position:relative;
@@ -64,7 +64,7 @@ nav ul li a:hover::after{
 .adopt{
     height:100vh;
     width:100%;
-    background:linear-gradient(rgba(129, 158, 135, 0.7),rgba(129, 158, 135, 0.7)),url(images/catdog.jpg);
+    background:linear-gradient(rgba(129, 158, 135, 0.7),rgba(129, 158, 135, 0.7)),url(catdog.jpg);
     background-size: cover;
     background-position:center;
     align-items: center;
@@ -126,7 +126,7 @@ input.animal{
 .donate{
     width:100%;
     height:100vh;
-    background: linear-gradient(rgba(67, 61, 55, 0.7),rgba(60, 56, 52, 0.7)),url(images/dog3.jpg);
+    background: linear-gradient(rgba(67, 61, 55, 0.7),rgba(60, 56, 52, 0.7)),url(dog3.jpg);
     background-size:cover;
     background-position: center;
     align-items: center;
@@ -177,7 +177,7 @@ input.num,input.date,input.cvv{
 .consult{
     width:100%;
     height:100vh;
-    background:linear-gradient(rgba(69, 147, 165, 0.7),rgba(69, 147, 165, 0.7)),url(images/vet.jpeg);
+    background:linear-gradient(rgba(69, 147, 165, 0.7),rgba(69, 147, 165, 0.7)),url(vet.jpeg);
     background-size: cover;
     background-position: center;
     align-items: center;
@@ -227,7 +227,7 @@ input.num,input.date,input.cvv{
 .contact{
     width:100%;
     height:100vh;
-    background: linear-gradient(rgba(122, 129, 137, 0.7),rgba(122, 129, 137, 0.7)),url(images/contact.jpeg);
+    background: linear-gradient(rgba(122, 129, 137, 0.7),rgba(122, 129, 137, 0.7)),url(contact.jpeg);
     background-position: center;
     background-size: cover;
     padding:100px;
