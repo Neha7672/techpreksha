@@ -1,4 +1,7 @@
 @media(max-width:1214px){
+    .adopt{
+        height:300vh;
+    }
     nav ul li a{
         display:block;
     }
@@ -8,7 +11,10 @@
     }
     .sub-adopt h2{
         text-align:center;
-       
+        padding-left:70px;
+    }
+    .sub-adopt ul li{
+        padding-left:70px;
     }
     .points{
         width:100%;
@@ -21,4 +27,3 @@
         width:200px;
     }
 }
-
